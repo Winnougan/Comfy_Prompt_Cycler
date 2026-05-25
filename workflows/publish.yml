@@ -1,3 +1,4 @@
+.github/workflows/
 name: Publish to Comfy registry
 on:
   workflow_dispatch:
