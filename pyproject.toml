@@ -1,6 +1,6 @@
 [project]
 name = "winnougan-prompt-cycler"
-version = "1.0.0"
+version = "1.0.1"
 description = "Load a .txt file of prompts and cycle through them automatically in ComfyUI — one image per prompt, hands-free."
 license = {text = "MIT"}
 authors = [
