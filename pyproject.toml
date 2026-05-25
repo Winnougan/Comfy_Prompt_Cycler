@@ -1,0 +1,18 @@
+[project]
+name = "winnougan-prompt-cycler"
+version = "1.0.0"
+description = "Load a .txt file of prompts and cycle through them automatically in ComfyUI — one image per prompt, hands-free."
+license = {text = "MIT"}
+authors = [
+    {name = "Winnougan", email = ""}
+]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Winnougan/Comfy_Prompt_Cycler"
+
+[tool.comfy]
+PublisherId = "winnougan"
+DisplayName = "Winnougan Prompt Cycler"
+Icon = ""
