@@ -1,4 +1,5 @@
 # Winnougan Prompt Cycler 📝
+<img width="2400" height="1792" alt="CGI_quality,_close_up_shot,_202605251057 (2)" src="https://github.com/user-attachments/assets/99bbf249-7e5e-413d-bb10-d985ed9f8f98" />
 
 A dead-simple ComfyUI custom node that loads a `.txt` file of prompts and cycles through them one per run — automatically. No babysitting required.
 
