@@ -101,3 +101,6 @@ Paste the full path to your `.txt` file into the `txt_file` field.
 ## License
 
 MIT
+
+[![Support on Patreon](https://img.shields.io/badge/Patreon-Support%20Winnougan-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Winnougan)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Winnougan-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Winnougan)
